@@ -1,3 +1,4 @@
+# Adding comment
 FROM registry.access.redhat.com/ubi9/go-toolset:latest AS builder
 COPY . .
 
